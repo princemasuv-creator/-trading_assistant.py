@@ -1,5 +1,6 @@
+import streamlit as st
+import datetime
 st.set_page_config(page_title="Forex Trading Assistant", layout="wide")
-
 st.markdown("# 📈 FOREX TRADING ASSISTANT")
 st.caption("Pre-trade analysis • Trade planning • Performance journal")
 
